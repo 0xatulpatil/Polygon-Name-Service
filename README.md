@@ -7,3 +7,13 @@ This is my attempt to make a mini-ENS but on polygon.
 
 ## How are ENS created?
 ENS domain name uses ERC-721 NFTs, which represent a unique address. It is understandable as NFTs are always unique and can never be duplicated. Now a user can either buy a domain or sell and transfer the NFT to trade a domain name. Since the wallet address and other details of the user are attached to the Token, it is only manageable by the owner and no one else has access to the same. A user will have to interact with the registrar for the subdomain they want.
+
+### How to get this repo up and running ?
+-> clone the repo.
+-> install dependencies.
+-> replace you env variables
+-> npm run
+
+
+![](https://media1.giphy.com/media/3ohhwtQGinneVw1FLy/giphy.gif?cid=ecf05e4744p1aucfxnovexpxcnbh8dcopt2expghm7otz8l8&rid=giphy.gif&ct=g)
+
